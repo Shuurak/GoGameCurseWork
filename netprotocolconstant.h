@@ -6,7 +6,7 @@
 
 enum networkErrors
 {
-    LOCAL_ERROR
+
 };
 
 #endif // NETPROTOCOLCONSTANT_H
